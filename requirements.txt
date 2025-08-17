@@ -1,6 +1,0 @@
-streamlit
-pandas
-click
-openpyxl
-pytube
-yt-dlp
